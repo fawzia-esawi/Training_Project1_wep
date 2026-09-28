@@ -7,11 +7,17 @@ It provides a web interface for managing event categories, events, participants,
 
 ## Technologies and Versions
 React 19
+
 TypeScript 5.9
+
 Vite 7
+
 Tailwind CSS 4
+
 Native Fetch API
+
 ESLint 9
+
 npm
 
 ## Installation
