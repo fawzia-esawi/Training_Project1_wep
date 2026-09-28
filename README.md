@@ -44,22 +44,26 @@ Start the development server:
 npm run dev
 
 ## Available npm Scripts
-Development
+### Development
+
 npm run dev
 
 Starts the Vite development server.
 
-Lint
+### Lint
+
 npm run lint
 
 Runs ESLint to check the frontend code.
 
-Build
+### Build
+
 npm run build
 
 Builds the application for production.
 
-Preview
+### Preview
+
 npm run preview
 
 Previews the production build locally.
