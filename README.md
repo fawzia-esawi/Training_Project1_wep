@@ -1,4 +1,4 @@
-Event Registration System - Web
+# Event Registration System - Web
 ## Description
 
 A web application for the Event Registration System.
