@@ -1,11 +1,11 @@
 Event Registration System - Web
-Description
+## Description
 
 A web application for the Event Registration System.
 
 It provides a web interface for managing event categories, events, participants, registrations, and dashboard information.
 
-Technologies and Versions
+## Technologies and Versions
 React 19
 TypeScript 5.9
 Vite 7
@@ -13,12 +13,14 @@ Tailwind CSS 4
 Native Fetch API
 ESLint 9
 npm
-Installation
+
+## Installation
 
 Clone the repository and install the project dependencies:
 
 npm install
-Environment Setup
+
+## Environment Setup
 
 Create a .env file in the project root based on .env.example.
 
@@ -29,12 +31,13 @@ VITE_APP_NAME=Event Registration System
 
 The .env file is local-only and must not be committed to the repository.
 
-Run the Application
+## Run the Application
 
 Start the development server:
 
 npm run dev
-Available npm Scripts
+
+## Available npm Scripts
 Development
 npm run dev
 
@@ -55,10 +58,10 @@ npm run preview
 
 Previews the production build locally.
 
-Local URL
+## Local URL
 
 Frontend: http://localhost:5173/
 
-Known Limitations
+## Known Limitations
 
 The application is currently under development, and some features are not yet implemented.
